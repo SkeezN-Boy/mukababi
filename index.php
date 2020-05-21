@@ -21,5 +21,5 @@
 Greetz:
 <br>
 <marquee scrollamount="10" width="400" behavior="alternate">
-Im A Solo Player So I Don't Have A People To Be Greeted
+Im A Solo Player So I Don't Have A People To Be Greeted , Thanks
 </marquee><br>
